@@ -47,6 +47,7 @@ https://imgur.com/a/X3G5R6W
  - SafeWalk: Sneak while jumping and on hold settings.
  - ChatLogger: Logs chat.
  - Config Manager.
+ - Added Step module in movement.
  - Much More!
 
 
